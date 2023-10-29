@@ -1,0 +1,16 @@
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\WhatTimeIsIt_VisualStudio\WhatTimeIsIt_VisualStudio\bin\Debug\net6.0-windows\WhatTimeIsIt_VisualStudio.exe
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\WhatTimeIsIt_VisualStudio\WhatTimeIsIt_VisualStudio\bin\Debug\net6.0-windows\WhatTimeIsIt_VisualStudio.deps.json
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\WhatTimeIsIt_VisualStudio\WhatTimeIsIt_VisualStudio\bin\Debug\net6.0-windows\WhatTimeIsIt_VisualStudio.runtimeconfig.json
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\WhatTimeIsIt_VisualStudio\WhatTimeIsIt_VisualStudio\bin\Debug\net6.0-windows\WhatTimeIsIt_VisualStudio.dll
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\WhatTimeIsIt_VisualStudio\WhatTimeIsIt_VisualStudio\bin\Debug\net6.0-windows\WhatTimeIsIt_VisualStudio.pdb
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\WhatTimeIsIt_VisualStudio\WhatTimeIsIt_VisualStudio\obj\Debug\net6.0-windows\WhatTimeIsIt_VisualStudio.Form1.resources
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\WhatTimeIsIt_VisualStudio\WhatTimeIsIt_VisualStudio\obj\Debug\net6.0-windows\WhatTimeIsIt_VisualStudio.csproj.GenerateResource.cache
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\WhatTimeIsIt_VisualStudio\WhatTimeIsIt_VisualStudio\obj\Debug\net6.0-windows\WhatTimeIsIt_VisualStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\WhatTimeIsIt_VisualStudio\WhatTimeIsIt_VisualStudio\obj\Debug\net6.0-windows\WhatTimeIsIt_VisualStudio.AssemblyInfoInputs.cache
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\WhatTimeIsIt_VisualStudio\WhatTimeIsIt_VisualStudio\obj\Debug\net6.0-windows\WhatTimeIsIt_VisualStudio.AssemblyInfo.cs
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\WhatTimeIsIt_VisualStudio\WhatTimeIsIt_VisualStudio\obj\Debug\net6.0-windows\WhatTimeIsIt_VisualStudio.csproj.CoreCompileInputs.cache
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\WhatTimeIsIt_VisualStudio\WhatTimeIsIt_VisualStudio\obj\Debug\net6.0-windows\WhatTimeIsIt_VisualStudio.dll
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\WhatTimeIsIt_VisualStudio\WhatTimeIsIt_VisualStudio\obj\Debug\net6.0-windows\refint\WhatTimeIsIt_VisualStudio.dll
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\WhatTimeIsIt_VisualStudio\WhatTimeIsIt_VisualStudio\obj\Debug\net6.0-windows\WhatTimeIsIt_VisualStudio.pdb
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\WhatTimeIsIt_VisualStudio\WhatTimeIsIt_VisualStudio\obj\Debug\net6.0-windows\WhatTimeIsIt_VisualStudio.genruntimeconfig.cache
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\WhatTimeIsIt_VisualStudio\WhatTimeIsIt_VisualStudio\obj\Debug\net6.0-windows\ref\WhatTimeIsIt_VisualStudio.dll

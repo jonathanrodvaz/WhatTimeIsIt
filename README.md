@@ -1,1 +1,1 @@
-# WhatTimeIsIt
+Proyecto "What Time Is It" (Reloj con distintas timezones) en C#. Quinta lección del curso de Udemy "C# Para Principiantes: Curso Práctico - C# en 15 Proyectos" por Gabriel Moroni.
